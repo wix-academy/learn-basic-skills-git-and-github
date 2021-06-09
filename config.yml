@@ -7,7 +7,12 @@ steps:
     description: >-
       Hey, it's your first time here, so let's not take any chances. Check out
       this short video to understand why people use GitHub.
-  - video: 'https://youtube.com/embed/noZnOSpcjYY'
+  - title: Discover what can you do on GitHub
+    link: https://docs.github.com/en/github/getting-started-with-github
+    description: >-
+      Learn how to start building, shipping, and maintaining software with GitHub. 
+      Explore GitHub products and connect with the world's largest development community.
+    video: 'https://youtube.com/embed/noZnOSpcjYY'
     
   - course: githubtraining/introduction-to-github
     description: >-
