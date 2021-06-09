@@ -24,11 +24,6 @@ steps:
       By now you are probably wondering what a Git is and why it is important in
       writing code. We have you covered with this short article on version
       control with Git.
-  - course: githubtraining/communicating-using-markdown
-    description: >-
-      GitHub is all about collaboration and we collaborate in issues in pull
-      requests. Learn how to get your point across with the worlds easiest text
-      formatting syntax.
   - course: githubtraining/uploading-your-project-to-github
     description: >-
       Now that you know what GitHub does, I bet you're ready to move all of
