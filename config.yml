@@ -14,20 +14,12 @@ steps:
       Explore GitHub products and connect with the world's largest development community.
     video: 'https://youtube.com/embed/noZnOSpcjYY'
     
-  - course: githubtraining/introduction-to-github
-    description: >-
-      That video is pretty cool, right? If you want to learn how to use the
-      workflow described in that video, take this course.
   - link: 'https://guides.github.com/introduction/git-handbook/'
     title: Git Handbook
     description: >-
       By now you are probably wondering what a Git is and why it is important in
       writing code. We have you covered with this short article on version
       control with Git.
-  - course: githubtraining/uploading-your-project-to-github
-    description: >-
-      Now that you know what GitHub does, I bet you're ready to move all of
-      those projects off your local machine. This course will show you how.
   - title: (Optional) git fundamentals by Adama Matan
     video: 'https://youtube.com/embed/FlpXes7QVk4'
     description: >-
