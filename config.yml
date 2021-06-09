@@ -46,4 +46,4 @@ steps:
     video: 'https://youtube.com/embed/FlpXes7QVk4'
     description: >-
       Adama Matan explains the git fundamentals: file structure, SHAs and objects, commits, refs and branches, up to the git interactive rebase. 
-      After this session, you should be able to understand git man pages, error messages, and repo states - without losing your HEAD.
+      After this session, you should be able to understand git man pages, error messages, and repo states.
