@@ -40,6 +40,11 @@ steps:
       Now that you know what GitHub does, I bet you're ready to move all of
       those projects off your local machine. This course will show you how.
 
+  - title: (Optional) Play "THE FLAME OF OPEN SOURCE" on TwilioQuest
+    description: >-
+      learn how to make your first contribution to an open source project, and clear the way for future developers using the power of the Flame of Open Source!
+    video: 'https://youtube.com/embed/v6yyc40mYtI'
+    link: 'https://www.twilio.com/quest/learn/open-source'
       
   - title: (Optional) git fundamentals by Adama Matan
     link: https://twitter.com/adam_matan/status/1149317853616775168
