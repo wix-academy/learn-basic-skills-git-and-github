@@ -46,7 +46,7 @@ steps:
     video: 'https://youtube.com/embed/v6yyc40mYtI'
     link: 'https://www.twilio.com/quest/learn/open-source'
       
-  - title: (Optional) git fundamentals by Adama Matan
+  - title: (Optional) git fundamentals by Adam Matan
     link: https://twitter.com/adam_matan/status/1149317853616775168
     video: 'https://youtube.com/embed/FlpXes7QVk4'
     description: >-
