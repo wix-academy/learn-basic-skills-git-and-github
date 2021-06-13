@@ -16,6 +16,12 @@ steps:
       Explore GitHub products and connect with the world's largest development community.
     video: 'https://youtube.com/embed/noZnOSpcjYY'
   
+  - title: 📺 Watch Git Explained in 100 Seconds (assuming you work with vscode 🙈)
+    video: 'https://youtube.com/embed/hwP7WQkmECE'
+    link: https://code.visualstudio.com/docs/editor/versioncontrol
+    description: >-
+      Learn the basics of Git in 100 seconds on vscode
+  
   - course: githubtraining/introduction-to-github
     description: >-
       That video is pretty cool, right? If you want to learn how to use the
