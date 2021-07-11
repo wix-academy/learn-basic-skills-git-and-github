@@ -71,3 +71,10 @@ steps:
     description: >-
       Practice the Katas, preferrably with a partner - one of you reading the instructions, the other one typing commands, and vice versa. 
       Move to the next Kata only when you fully understand the commands you type and their effect.
+  
+  - title: (Optional) take Linkedin git skill Assessment quiz
+    link: https://www.linkedin.com/skill-assessments/git/quiz/?practiceMode=true
+    description: >-
+      15 multiple choice questions
+      1.5 minutes per question
+      Score in the top 30% to earn a badge
