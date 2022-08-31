@@ -1,0 +1,30 @@
+name: Transform lab config
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        
+      - name: Generate README
+        uses: wix-academy/github-lab-config-to-github-skills-readme-action@v1.1
+        with:
+          config-file: 'config.yml'
+          course-details-file: 'course-details.md'
+          readme-file: 'README.md'
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Wix Academy"
+          git config --global user.email "academy@wix.com"
+
+          git add -A
+          git commit -m "generate README.md from config.yml + course-details.md"
+          git push
